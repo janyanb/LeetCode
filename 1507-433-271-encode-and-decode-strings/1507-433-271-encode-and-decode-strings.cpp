@@ -21,7 +21,7 @@ public:
             while(s[j] != '#'){
                 j += 1;    //compute the starting and ending index of len value
             };
-            int length = stoi(s.substr(i,j));
+            int length = stoi(s.substr(i,j-i));
             cout<<length;
             i = j+1;
             j = i+length;

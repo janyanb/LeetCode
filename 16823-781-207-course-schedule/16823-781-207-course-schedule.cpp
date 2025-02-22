@@ -17,7 +17,7 @@ public:
                     return false;
                 }             
             }
-            visited[curr] = false;
+            visited[curr] = false;    // the visited vector will be reused by another graph so once this graph is explored mark as false.
             graph[curr].clear();   //form of memoization
             return true;
         };

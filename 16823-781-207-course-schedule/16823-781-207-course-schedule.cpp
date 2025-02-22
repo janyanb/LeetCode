@@ -18,7 +18,7 @@ public:
                 }             
             }
             visited[curr] = false;
-            graph[curr].clear();
+            graph[curr].clear();   //form of memoization
             return true;
         };
 

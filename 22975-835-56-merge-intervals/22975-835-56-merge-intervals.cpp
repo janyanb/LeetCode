@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        int n = intervals.size();
+      /*  int n = intervals.size();
         for(int i = 0; i < n; i++){
             bool swapped = false;
             for(int j = 0; j < n - i - 1 ; j++){                              //-1 because we will compare j+1 in the loop
@@ -11,8 +11,10 @@ public:
                 }
             };
             if(!swapped) break;            
-        }
+        }*/
 
+        sort(intervals.begin(), intervals.end());
+        int n = intervals.size();
         vector<vector<int>> mergedIntervals;
         int i;
         for(i =0; i< n -1 ;i++){                                             // -1 because we will compare i+1 in loop                             

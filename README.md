@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/janyanb/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/janyanb/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/janyanb/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->

@@ -7,14 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/janyanb/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/janyanb/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/janyanb/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -22,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/janyanb/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -36,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |

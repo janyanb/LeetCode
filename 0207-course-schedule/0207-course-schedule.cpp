@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> graph(numCourses, vector<int>());
+        vector<vector<int>> graph(numCourses);
         for(auto edge : prerequisites){
             graph[edge[0]].push_back(edge[1]);
         }

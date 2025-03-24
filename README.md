@@ -93,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Union Find
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Graph
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 <!---LeetCode Topics End-->

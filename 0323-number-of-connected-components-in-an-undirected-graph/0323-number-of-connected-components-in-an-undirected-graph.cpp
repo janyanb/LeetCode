@@ -17,7 +17,7 @@ public:
 
             visited[curr] = true;
             for(int nei: graph[curr]){
-                dfs(nei);
+                if(!visited[nei]) dfs(nei);                
             }
 
         };

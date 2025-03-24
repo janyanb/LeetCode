@@ -96,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/janyanb/LeetCode/tree/master/0207-course-schedule) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/janyanb/LeetCode/tree/master/0207-course-schedule) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Union Find
 |  |
@@ -108,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/janyanb/LeetCode/tree/master/0207-course-schedule) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/janyanb/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

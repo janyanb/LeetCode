@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/janyanb/LeetCode/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janyanb/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Breadth-First Search
@@ -120,9 +121,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janyanb/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janyanb/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janyanb/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

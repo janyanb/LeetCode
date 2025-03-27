@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/janyanb/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/janyanb/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/janyanb/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/janyanb/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/janyanb/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janyanb/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/janyanb/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

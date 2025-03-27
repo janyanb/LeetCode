@@ -13,7 +13,6 @@ public:
             auto smallpair = numMap.begin();
             int smallest = smallpair->first;
 
-            if(smallpair->second == 0) continue;
             int currnum = smallest;
             for(int i = 0; i <k ; i++){            
 

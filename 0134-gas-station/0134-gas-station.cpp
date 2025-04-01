@@ -1,7 +1,7 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        if(gas.size() == 1&& gas[0] - cost[0] >=0 ) return 0;
+        if(gas.size() == 1 && gas[0] >= cost[0] ) return 0;
 
         int i = 0, j = 0;
         int start = -1, tgas = 0;

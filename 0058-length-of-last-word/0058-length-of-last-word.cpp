@@ -4,11 +4,9 @@ public:
         regex pattern("([a-zA-Z]+)\\s*$");
         smatch matches;
 
-        if(regex_search(s, matches, pattern)){
-           string word = matches[1];
-           return word.size();
-        }
-
-        return 0;
+        regex_search(s, matches, pattern);
+        string word = matches[1];
+        return word.size();
+        
     }
 };

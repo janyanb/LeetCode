@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/janyanb/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/janyanb/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/janyanb/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/janyanb/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/janyanb/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/janyanb/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janyanb/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/janyanb/LeetCode/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

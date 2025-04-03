@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/janyanb/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/janyanb/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janyanb/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/janyanb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janyanb/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/janyanb/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/janyanb/LeetCode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/janyanb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/janyanb/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janyanb/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/janyanb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/janyanb/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |

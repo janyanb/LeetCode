@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/janyanb/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/janyanb/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/janyanb/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/janyanb/LeetCode/tree/master/0383-ransom-note) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/janyanb/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/janyanb/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/janyanb/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/janyanb/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/janyanb/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/janyanb/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/janyanb/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/janyanb/LeetCode/tree/master/0383-ransom-note) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/janyanb/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/janyanb/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/janyanb/LeetCode/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/janyanb/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/janyanb/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/janyanb/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/janyanb/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/janyanb/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |

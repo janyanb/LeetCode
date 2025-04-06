@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/janyanb/LeetCode/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/janyanb/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/janyanb/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/janyanb/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/janyanb/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/janyanb/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/janyanb/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/janyanb/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/janyanb/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/janyanb/LeetCode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/janyanb/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/janyanb/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Depth-First Search
 |  |

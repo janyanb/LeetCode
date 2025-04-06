@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/janyanb/LeetCode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/janyanb/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/janyanb/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/janyanb/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/janyanb/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janyanb/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/janyanb/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/janyanb/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/janyanb/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/janyanb/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/janyanb/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/janyanb/LeetCode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |

@@ -9,34 +9,32 @@
  * };
  */
 class Solution {
-    public:
-        ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if (!head || left == right) return head;
-        
-        // Dummy node to simplify edge cases (like left=1)
-        ListNode dummy(0);
-        dummy.next = head;
+public:
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+        if(left == right || !head->next) return head;
+        if(!head) return nullptr;
 
-        // 1) Move 'prev' just before the sublist
-        ListNode* prev = &dummy;
-        for (int i = 1; i < left; i++) {
-            prev = prev->next;  // after this loop, prev is node BEFORE 'left'
+        ListNode *dummy = new ListNode(0, head);       
+        ListNode *beforeLeft = dummy;
+        ListNode *curr = head;
+        //traverse the linked list until left
+        for(int i = 1; i<left; i++){
+            curr = curr->next;
+            beforeLeft = beforeLeft->next;
         }
 
-        // 2) 'start' is the first node of the sublist we want to reverse
-        //    'then' is the node after 'start'
-        ListNode* start = prev->next;
-        ListNode* then = start->next;
-
-        // 3) Reverse sublist [left..right]
-        //    We iteratively move 'then' to the front
-        for (int i = 0; i < (right - left); i++) {
-            start->next = then->next;  // remove 'then' from its place
-            then->next = prev->next;   // insert 'then' at the front
-            prev->next = then;         // re-link 'prev' to 'then'
-            then = start->next;        // advance 'then'
+        ListNode  *prev = curr, *temp;
+        ListNode *lNode = prev->next;
+        for(int j = left; j<right; j++){
+            temp = lNode->next;
+            lNode->next = prev;
+            prev = lNode;
+            lNode = temp;
         }
 
-        return dummy.next;
+        curr->next = temp;
+        beforeLeft->next = prev;
+
+        return dummy->next;
     }
 };

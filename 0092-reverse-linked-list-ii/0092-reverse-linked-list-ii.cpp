@@ -15,7 +15,7 @@ public:
         if(!head) return nullptr;
 
         ListNode *dummy = new ListNode(0, head);       
-        ListNode *beforeLeft = dummy;
+        ListNode *beforeLeft = dummy;              //to handle edge cases of left = 1
         ListNode *curr = head;
         //traverse the linked list until left
         for(int i = 1; i<left; i++){

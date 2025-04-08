@@ -22,7 +22,7 @@ public:
 
         function<Node*(Node*)> rec = [&](Node* curr)-> Node*{
             if(!curr) return nullptr;
-            if(clones.count(curr)) return clones[curr];
+            if(clones.find(curr) != clones.end()) return clones[curr];
 
             Node* clone = new Node(curr->val);
             clones[curr] = clone;

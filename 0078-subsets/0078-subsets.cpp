@@ -6,7 +6,7 @@ public:
 
         function<void(int,vector<int>)> rec = [&](int index, vector<int> Subseq) -> void {
             if(index >= nums.size()){
-                if(!count(Subsequence.begin(),Subsequence.end(), Subseq)) Subsequence.push_back(Subseq);
+                Subsequence.push_back(Subseq);
                 return;
             }
 

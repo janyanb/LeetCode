@@ -4,7 +4,7 @@ public:
         vector<vector<int>> Subsequence;
         vector<int> elements;
 
-        function<void(int,vector<int>)> rec = [&](int index, vector<int> Subseq) -> void {
+        function<void(int,vector<int>&)> rec = [&](int index, vector<int>& Subseq) -> void {
             if(index >= nums.size()){
                 Subsequence.push_back(Subseq);
                 return;

@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/janyanb/LeetCode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |

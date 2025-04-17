@@ -17,6 +17,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/janyanb/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Backtracking
 |  |
 | ------- |

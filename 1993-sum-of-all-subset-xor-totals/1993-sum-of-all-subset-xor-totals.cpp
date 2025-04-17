@@ -2,9 +2,9 @@ class Solution {
 public:
     void findSubsets(int ind, vector<int>& comb,vector<vector<int>>& subset, vector<int>& nums){
         if(ind >= nums.size()){
-            subset.push_back({comb});
+            subset.push_back(comb);
             return;
-        } 
+        }
 
         comb.push_back(nums[ind]);
         findSubsets(ind + 1, comb, subset, nums);

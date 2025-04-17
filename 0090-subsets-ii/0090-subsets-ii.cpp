@@ -1,7 +1,8 @@
 class Solution {
 public:
     void findSubsets(int ind, vector<int>& ds, vector<vector<int>>& res, vector<int>& nums){
-        //if(ind >= nums.size()) return;
+        //if(ind >= nums.size()) return;  -> already being checked in the for loop
+        //this recursion generates a unique subset at every all, so we can directly push it in the res vector
         res.push_back(ds);
 
         for(int i = ind; i<nums.size(); i++){

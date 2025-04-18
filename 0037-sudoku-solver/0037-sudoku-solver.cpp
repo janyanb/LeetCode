@@ -18,14 +18,8 @@ public:
                     for(char num = '1'; num <= '9'; num++){
                         if(isValid(i, j, num, board)){
                             board[i][j] = num;
-
-
-                            if(solve(board) == true){
-                                return true;
-                            } else {
+                            if(solve(board) == true) return true;
                             board[i][j] = '.';
-                            }
-
                             }                        
 
                         }

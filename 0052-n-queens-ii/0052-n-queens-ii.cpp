@@ -17,7 +17,6 @@ public:
         }
 
         tempcol = col;
-        temprow = row;
         while(temprow<n && tempcol >= 0){
             if(board[temprow][tempcol] == 'Q') return false;
             temprow ++;

@@ -30,6 +30,7 @@
 | [0051-n-queens](https://github.com/janyanb/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janyanb/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/janyanb/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janyanb/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 ## Memoization
 |  |

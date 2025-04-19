@@ -1,7 +1,6 @@
 class Solution {
 public:
-    void findComb(int ind, vector<int>& arr, vector<int>& comb, vector<vector<int>>& res, int k){
-        
+    void findComb(int ind, vector<int>& arr, vector<int>& comb, vector<vector<int>>& res, int k){        
         if(comb.size() == k){
             res.push_back(comb);
             return;
@@ -22,7 +21,6 @@ public:
         vector<int> arr;
         for(int i = 1; i<=n; i++){
             arr.push_back(i);
-            cout<<arr[i - 1];
         }
         findComb(0, arr, comb, res, k);
 

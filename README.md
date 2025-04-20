@@ -17,6 +17,7 @@
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janyanb/LeetCode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -48,6 +49,7 @@
 | [0018-4sum](https://github.com/janyanb/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/janyanb/LeetCode/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |

@@ -14,6 +14,7 @@
 | [0040-combination-sum-ii](https://github.com/janyanb/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/janyanb/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/janyanb/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janyanb/LeetCode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/janyanb/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -111,5 +113,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

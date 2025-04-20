@@ -6,7 +6,7 @@ public:
         }
         int j = 0; //pointer to last unique element
         for(int i = 1; i< nums.size(); i++){
-            if(nums[i] != nums[j]){
+            if(nums[i] != nums[i-1]){
                 j++;
                 nums[j] = nums[i];       //assign the next unique element to the jth index
             }

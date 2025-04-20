@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/janyanb/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/janyanb/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janyanb/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/janyanb/LeetCode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -117,4 +118,8 @@
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/janyanb/LeetCode/tree/master/0134-gas-station) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/janyanb/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

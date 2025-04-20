@@ -6,9 +6,9 @@ public:
         k = k % size;
         int numShift = size - k;
 
-        vector<int> dummy(nums.begin() + numShift, nums.end());
-        dummy.insert(dummy.end(), nums.begin(), nums.end() - k);
-        nums = dummy;
-     
+        vector<int> dummy(nums.begin(), nums.end());
+        nums.clear();
+        nums.insert(nums.begin(), dummy.begin() + numShift, dummy.end());
+        nums.insert(nums.begin() + k, dummy.begin(), dummy.begin() + numShift);
     }
 };

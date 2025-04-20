@@ -32,8 +32,9 @@ public:
         for(int i =0; i < gas.size(); i++){
             TGas += gas[i];
             TCost += cost[i];
-           tgas += gas[i] - cost[i];
+            tgas += gas[i] - cost[i];
 
+            
             if(tgas < 0){
                 start = i + 1;               //works because TGas >= TCost;
                 tgas = 0;                

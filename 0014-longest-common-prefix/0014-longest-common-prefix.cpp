@@ -8,7 +8,7 @@ public:
             prefix = strs[0].substr(0,j);
             for(int i = 1; i < strs.size(); i++){                
                 if(strs[i].substr(0,j) != prefix){
-                    return prefix.substr(0, prefix.size() -1);
+                    return prefix.substr(0, j -1);
                 }                
             }
         }

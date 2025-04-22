@@ -75,6 +75,7 @@
 | [0014-longest-common-prefix](https://github.com/janyanb/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janyanb/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/janyanb/LeetCode/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/janyanb/LeetCode/tree/master/0071-simplify-path) |
 | [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/janyanb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/janyanb/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/janyanb/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

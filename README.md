@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/janyanb/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/janyanb/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/janyanb/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janyanb/LeetCode/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/janyanb/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/janyanb/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |

@@ -6,13 +6,12 @@ public:
         if(total > amount) return INF;
         if(ind == nums.size()) return INF;
 
-        int& ans = dp[ind][total];           //counts how mant more min num of coins needed at state[0][10] = 1
-        if (ans != -1) return ans; 
+        if (dp[ind][total] != -1) return dp[ind][total];          //counts how mant more min num of coins needed at state[0][10] = 1
 
         int pick = 1 + findComb(nums, amount, ind, total + nums[ind], dp);
         int notPick = findComb(nums, amount, ind + 1, total, dp);
 
-        return ans = min(pick, notPick);
+        return dp[ind][total] = min(pick, notPick);
     }
     int coinChange(vector<int>& coins, int amount) {
 

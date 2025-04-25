@@ -6,7 +6,7 @@ public:
         if(total > amount) return INF;
         if(ind == nums.size()) return INF;
 
-        int& ans = dp[ind][total];
+        int& ans = dp[ind][total];           //counts how mant more min num of coins needed at state[0][10] = 1
         if (ans != -1) return ans; 
 
         int pick = 1 + findComb(nums, amount, ind, total + nums[ind], dp);

@@ -3,16 +3,21 @@ public:
     vector<int> plusOne(vector<int>& digits) {
         int n = digits.size();
 
-        for(int i = n-1; i>= 0; i--){
-            if(digits[i] < 9){
-                digits[i]++;
-                return digits;
-            }
+        int i = n - 2;
+        int num = digits[n-1] + 1;
+        digits[n -1] = num%10;
+        int carry = num/10;
 
-            digits[i] = 0;
+
+        while(carry && i>= 0){
+            num = digits[i] + carry;
+            digits[i] = num%10;
+            carry = num/10;
+            i--;            
         }
 
-        digits.insert(digits.begin(), 1);
+        if(carry) digits.insert(digits.begin(), 1);
+
         return digits;
     }
 };

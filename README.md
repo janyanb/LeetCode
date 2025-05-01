@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/janyanb/LeetCode/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
+| [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/janyanb/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Backtracking
@@ -74,6 +75,7 @@
 | [0035-search-insert-position](https://github.com/janyanb/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/janyanb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 ## String
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0066-plus-one](https://github.com/janyanb/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
+| [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Combinatorics
 |  |
 | ------- |
@@ -152,4 +156,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/janyanb/LeetCode/tree/master/0322-coin-change) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->

@@ -31,6 +31,7 @@
 | [0322-coin-change](https://github.com/janyanb/LeetCode/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
+| [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/janyanb/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -123,10 +124,12 @@
 | [0037-sudoku-solver](https://github.com/janyanb/LeetCode/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 ## Combinatorics
 |  |

@@ -16,6 +16,7 @@
 | [0051-n-queens](https://github.com/janyanb/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/janyanb/LeetCode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/janyanb/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janyanb/LeetCode/tree/master/0090-subsets-ii) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/janyanb/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/janyanb/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/janyanb/LeetCode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |

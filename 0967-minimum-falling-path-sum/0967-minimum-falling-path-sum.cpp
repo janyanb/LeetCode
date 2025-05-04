@@ -47,7 +47,7 @@ public:
         }
 
         int minPath = 1e9;
-        for(int c = 0; c< n; c++){
+        for(int c = 0; c< n; c++){                                //the smallest for path ending with j will be stored in dp[0][j];
             minPath = min(minPath, dp[0][c]);
         }
 

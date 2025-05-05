@@ -34,6 +34,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 | [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0741-cherry-pickup](https://github.com/janyanb/LeetCode/tree/master/0741-cherry-pickup) |
 | [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0967-minimum-falling-path-sum](https://github.com/janyanb/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/janyanb/LeetCode/tree/master/1559-cherry-pickup-ii) |
@@ -119,6 +120,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/janyanb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/janyanb/LeetCode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
+| [0741-cherry-pickup](https://github.com/janyanb/LeetCode/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/janyanb/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/janyanb/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Memoization
@@ -152,6 +154,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/janyanb/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/janyanb/LeetCode/tree/master/0741-cherry-pickup) |
 | [0967-minimum-falling-path-sum](https://github.com/janyanb/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/janyanb/LeetCode/tree/master/1559-cherry-pickup-ii) |
 ## Greedy

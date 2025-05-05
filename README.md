@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0741-cherry-pickup](https://github.com/janyanb/LeetCode/tree/master/0741-cherry-pickup) |
 | [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [0952-word-subsets](https://github.com/janyanb/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/janyanb/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/janyanb/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/janyanb/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -97,6 +98,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/janyanb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/janyanb/LeetCode/tree/master/0243-shortest-word-distance) |
+| [0952-word-subsets](https://github.com/janyanb/LeetCode/tree/master/0952-word-subsets) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/janyanb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
@@ -136,6 +138,7 @@
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/janyanb/LeetCode/tree/master/0952-word-subsets) |
 ## Prefix Sum
 |  |
 | ------- |

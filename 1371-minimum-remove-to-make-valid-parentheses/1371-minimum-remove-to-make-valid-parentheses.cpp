@@ -3,7 +3,7 @@ public:
     string minRemoveToMakeValid(string s) {
 
         stack<char> S;
-        int open = 0, close = 0;
+        int open = 0, close = 0;              //for valid paranthesis open always >= close
         string str, res;
 
         for(char c: s){

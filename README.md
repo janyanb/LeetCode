@@ -70,6 +70,7 @@
 | [0031-next-permutation](https://github.com/janyanb/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/janyanb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
+| [0408-valid-word-abbreviation](https://github.com/janyanb/LeetCode/tree/master/0408-valid-word-abbreviation) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/janyanb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0243-shortest-word-distance](https://github.com/janyanb/LeetCode/tree/master/0243-shortest-word-distance) |
+| [0408-valid-word-abbreviation](https://github.com/janyanb/LeetCode/tree/master/0408-valid-word-abbreviation) |
 | [0952-word-subsets](https://github.com/janyanb/LeetCode/tree/master/0952-word-subsets) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/janyanb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math

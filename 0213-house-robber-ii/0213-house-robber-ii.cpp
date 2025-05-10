@@ -1,9 +1,9 @@
 class Solution {
 public:
     int canRob(int i, vector<int>& nums, vector<int> &dp, int end){
-        if(i < end) return 0;
+        if(i < end || i< 0) return 0;
         if(i == 0) return nums[i];
-        if(i < 0) return 0;
+        //if(i < 0) return 0;
         if(dp[i] != -1) return dp[i];
 
         int pick = canRob(i - 2, nums, dp, end) + nums[i];

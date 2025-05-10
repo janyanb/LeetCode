@@ -19,7 +19,8 @@ public:
         for(int i = freqIndex.size() - 1; i >= 0 ; i--){
             for(int j = 0; j < freqIndex[i].size(); j++){
                 result.push_back(freqIndex[i][j]);
-                if(result.size() == k) return result;
+                k--;
+                if(k == 0) return result;
             }
         };
 

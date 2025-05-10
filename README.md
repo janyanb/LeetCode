@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/janyanb/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/janyanb/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janyanb/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0243-shortest-word-distance](https://github.com/janyanb/LeetCode/tree/master/0243-shortest-word-distance) |
 | [0252-meeting-rooms](https://github.com/janyanb/LeetCode/tree/master/0252-meeting-rooms) |
 | [0300-longest-increasing-subsequence](https://github.com/janyanb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -79,6 +80,7 @@
 | [0018-4sum](https://github.com/janyanb/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/janyanb/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janyanb/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/janyanb/LeetCode/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janyanb/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/janyanb/LeetCode/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/janyanb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |

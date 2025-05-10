@@ -6,9 +6,7 @@ public:
             vector<int> setbits;
             int num = i;
             while(num!=0){
-                if(num%2==1){
-                    setbits.push_back(1);
-                }
+                setbits.push_back(num%2);
                 num = num/2;
             }
             ans.push_back(count(setbits.begin(), setbits.end(), 1));

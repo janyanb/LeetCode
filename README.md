@@ -33,6 +33,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/janyanb/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/janyanb/LeetCode/tree/master/0322-coin-change) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/janyanb/LeetCode/tree/master/0403-frog-jump) |
 | [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0741-cherry-pickup](https://github.com/janyanb/LeetCode/tree/master/0741-cherry-pickup) |
@@ -80,6 +81,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/janyanb/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/janyanb/LeetCode/tree/master/0252-meeting-rooms) |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0037-sudoku-solver](https://github.com/janyanb/LeetCode/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/janyanb/LeetCode/tree/master/0242-valid-anagram) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/janyanb/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/janyanb/LeetCode/tree/master/0952-word-subsets) |
 ## Prefix Sum
@@ -193,14 +196,17 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janyanb/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janyanb/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/janyanb/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -213,4 +219,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/janyanb/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

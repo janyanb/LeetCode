@@ -51,7 +51,8 @@ public:
 
 private:
     bool searchHelper(Node* node, string word, int index){
-        if(!node) return false;
+        
+        //if(!node) return false;
 
         if(index == word.size()) return node->flagvalue();
 

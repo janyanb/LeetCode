@@ -26,7 +26,7 @@ public:
                 }
                 prev -> next = slow;
             }else {
-                prev = slow;
+                prev = prev -> next;
                 slow = slow -> next;
             }
 

@@ -14,15 +14,15 @@ public:
     int findSum(TreeNode* root, int dig){
         if(!root) return 0;
 
-        dig = dig * 10 + root -> val;
+        dig = dig * 10 + root -> val;  //the curr nodes dig will be the same, it will be unaffected by the numbers added after this. 
 
         if(!root->left && !root-> right){
             return dig;
         }
 
        return findSum(root->left, dig) + findSum(root->right, dig);
-
     }
+
     int sumNumbers(TreeNode* root) {
         return findSum(root, 0);
     }

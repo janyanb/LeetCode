@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/janyanb/LeetCode/tree/master/0071-simplify-path) |
+| [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/janyanb/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Breadth-First Search
 |  |
@@ -232,6 +233,7 @@
 | [0112-path-sum](https://github.com/janyanb/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/janyanb/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -249,6 +251,7 @@
 | [0112-path-sum](https://github.com/janyanb/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/janyanb/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Bucket Sort
 |  |
@@ -269,6 +272,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janyanb/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Linked List
 |  |
@@ -277,4 +281,12 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janyanb/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/janyanb/LeetCode/tree/master/0086-partition-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

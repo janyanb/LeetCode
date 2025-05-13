@@ -76,6 +76,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/janyanb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/janyanb/LeetCode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/janyanb/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/janyanb/LeetCode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/janyanb/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
 | [0408-valid-word-abbreviation](https://github.com/janyanb/LeetCode/tree/master/0408-valid-word-abbreviation) |
@@ -258,4 +259,5 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/janyanb/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/janyanb/LeetCode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->

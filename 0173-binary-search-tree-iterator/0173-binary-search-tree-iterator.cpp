@@ -9,6 +9,10 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+//Solution is o(h) but can be implemented easier-> strore inorder traversal in vector and then perform operatins on it. 
+
 class BSTIterator {
 private: stack<TreeNode*> path;
 public:

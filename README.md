@@ -134,6 +134,7 @@
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/janyanb/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janyanb/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/janyanb/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/janyanb/LeetCode/tree/master/0213-house-robber-ii) |
@@ -233,6 +234,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/janyanb/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/janyanb/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -243,6 +245,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/janyanb/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janyanb/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -253,6 +256,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/janyanb/LeetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/janyanb/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/janyanb/LeetCode/tree/master/0222-count-complete-tree-nodes) |

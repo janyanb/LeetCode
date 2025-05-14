@@ -206,6 +206,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/janyanb/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/janyanb/LeetCode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0662-maximum-width-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Randomized
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/janyanb/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0662-maximum-width-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/janyanb/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/janyanb/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0662-maximum-width-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/janyanb/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/janyanb/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/janyanb/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0662-maximum-width-of-binary-tree](https://github.com/janyanb/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |

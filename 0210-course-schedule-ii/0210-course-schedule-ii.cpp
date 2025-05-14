@@ -13,7 +13,7 @@ public:
 
         onPath[curr] = false;
         visited[curr] = true;
-        order.push_back(curr);
+        order.push_back(curr);   //push children first and
         return true;
     }
 

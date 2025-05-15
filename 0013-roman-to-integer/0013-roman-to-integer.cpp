@@ -12,7 +12,7 @@ public:
 
         int i = 0, tot = 0;
         while(i< s.size()){
-            if(SymbolMap[s[i]] < SymbolMap[s[i+1]]){
+            if(i+1 <s.size() && SymbolMap[s[i]] < SymbolMap[s[i+1]]){
                 tot += SymbolMap[s[i+1]] - SymbolMap[s[i]];
                 i+=2;
             } else {

@@ -1,12 +1,22 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        regex pattern("([a-zA-Z]+)\\s*$");
-        smatch matches;
+        int i = s.size() -1;
+        while(s[i] == ' '){
+            s.pop_back();
+            i--;
+        }
 
-        regex_search(s, matches, pattern);
-        string word = matches[1];
-        return word.size();
-        
+        stringstream ss(s);
+        vector<string> res;
+        string str;
+        while(getline(ss, str, ' ')){
+            res.push_back(str);
+        }
+
+        string last = res.back();
+        cout<<last;
+
+        return last.size();     
     }
 };

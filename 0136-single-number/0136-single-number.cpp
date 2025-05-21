@@ -1,12 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        //sort(nums.begin(), nums.end());
+        sort(nums.begin(), nums.end());
 
-        for(int i = 0; i< nums.size(); i++){
-            if(count(nums.begin(), nums.end(), nums[i]) < 2) return nums[i]; 
+        for(int i = 1; i< nums.size(); i+=2){
+            if(nums[i] != nums[i-1])  return nums[i-1];
         }
 
-        return 0;
+        return nums.back();
     }
 };

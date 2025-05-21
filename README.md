@@ -65,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/janyanb/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/janyanb/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/janyanb/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/janyanb/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -112,6 +113,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janyanb/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/janyanb/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/janyanb/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/janyanb/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/janyanb/LeetCode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/janyanb/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/janyanb/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/janyanb/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/janyanb/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/janyanb/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/janyanb/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/janyanb/LeetCode/tree/master/0189-rotate-array) |
 | [0912-random-pick-with-weight](https://github.com/janyanb/LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -328,4 +331,8 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/janyanb/LeetCode/tree/master/0210-course-schedule-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/janyanb/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

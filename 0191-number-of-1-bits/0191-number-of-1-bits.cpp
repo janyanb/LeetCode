@@ -1,15 +1,14 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-        vector<int> binaryN;
-        while(n!= 0){
-            if(n%2 == 1){
-                binaryN.push_back(1);
-            };
-            n = n/2;     
-        }        
+        uint32_t temp;
+        int count = 0;
+        for(int i = 0; i<= 30; i++){
+            temp = (n >> i) & 1;
+            if(temp == 1) count++;
+        }
 
-        return binaryN.size();        //reverse(binaryN.begin(), binaryN.end()) = binary rep of n
+        return count;        
         
     }
 };
